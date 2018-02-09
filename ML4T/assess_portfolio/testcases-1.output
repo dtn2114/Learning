@@ -1,0 +1,108 @@
+Start Date: 2010-01-01 00:00:00
+End Date: 2010-12-31 00:00:00
+Symbols: ['GOOG', 'AAPL', 'GLD', 'XOM']
+Allocations: [0.2, 0.3, 0.4, 0.1]
+Sharpe Ratio: 1.51819243641
+Volatility (stdev of daily returns): 0.0100104028
+Average Daily Return: 0.000957366234238
+Cumulative Return: 0.255646784534
+End Value: 1255646.78453
+Start Date: 2010-01-01 00:00:00
+End Date: 2010-12-31 00:00:00
+Symbols: ['AXP', 'HPQ', 'IBM', 'HNZ']
+Allocations: [0.0, 0.0, 0.0, 1.0]
+Sharpe Ratio: 1.30798398744
+Volatility (stdev of daily returns): 0.00926153128768
+Average Daily Return: 0.000763106152672
+Cumulative Return: 0.198105963655
+End Value: 1198105.96365
+Start Date: 2010-06-01 00:00:00
+End Date: 2010-12-31 00:00:00
+Symbols: ['GOOG', 'AAPL', 'GLD', 'XOM']
+Allocations: [0.2, 0.3, 0.4, 0.1]
+Sharpe Ratio: 2.21259766672
+Volatility (stdev of daily returns): 0.00929734619707
+Average Daily Return: 0.00129586924366
+Cumulative Return: 0.205113938792
+End Value: 1205113.93879
+Start Date: 2010-09-01 00:00:00
+End Date: 2010-12-31 00:00:00
+Symbols: ['IYR']
+Allocations: [1.0]
+Sharpe Ratio: -13.0816834715
+Volatility (stdev of daily returns): 0.0108856018686
+Average Daily Return: 0.00102951730912
+Cumulative Return: 0.0849230769231
+End Value: 1084923.07692
+Start Date: 2009-07-02 00:00:00
+End Date: 2010-07-30 00:00:00
+Symbols: ['USB', 'VAR']
+Allocations: [0.3, 0.7]
+Sharpe Ratio: -18.9672623081
+Volatility (stdev of daily returns): 0.0152327985726
+Average Daily Return: 0.00179946813815
+Cumulative Return: 0.577665964655
+End Value: 1577665.96466
+Start Date: 2008-06-03 00:00:00
+End Date: 2010-06-29 00:00:00
+Symbols: ['HSY', 'VLO', 'HOT']
+Allocations: [0.2, 0.4, 0.4]
+Sharpe Ratio: -16.2598706108
+Volatility (stdev of daily returns): 0.0292933210871
+Average Daily Return: -4.43318599737e-06
+Cumulative Return: -0.202916389755
+End Value: 797083.610245
+Start Date: 2007-05-04 00:00:00
+End Date: 2010-05-28 00:00:00
+Symbols: ['VNO', 'WU', 'EMC', 'AMGN']
+Allocations: [0.2, 0.3, 0.4, 0.1]
+Sharpe Ratio: -27.4541286863
+Volatility (stdev of daily returns): 0.0230227053156
+Average Daily Return: 0.000183438771035
+Cumulative Return: -0.0602831013866
+End Value: 939716.898613
+Start Date: 2006-04-05 00:00:00
+End Date: 2010-04-26 00:00:00
+Symbols: ['ADSK', 'BXP', 'IGT', 'SWY', 'PH']
+Allocations: [0.2, 0.3, 0.1, 0.2, 0.2]
+Sharpe Ratio: -35.7284587801
+Volatility (stdev of daily returns): 0.0220751167394
+Average Daily Return: 0.000315946476717
+Cumulative Return: 0.0766844908523
+End Value: 1076684.49085
+Start Date: 2005-04-06 00:00:00
+End Date: 2010-03-25 00:00:00
+Symbols: ['ETN', 'KSS', 'NYT', 'GPS', 'BMC', 'TEL']
+Allocations: [0.2, 0.1, 0.1, 0.1, 0.4, 0.1]
+Sharpe Ratio: -55.2105225742
+Volatility (stdev of daily returns): 0.0170978584343
+Average Daily Return: 0.000534742431109
+Cumulative Return: 0.626452592439
+End Value: 1626452.59244
+Start Date: 2003-02-08 00:00:00
+End Date: 2010-01-23 00:00:00
+Symbols: ['HRL', 'SDS', 'ACS', 'IFF', 'WMB', 'FFIV', 'BK', 'AIV']
+Allocations: [0.2, 0.2, 0.1, 0.1, 0.2, 0, 0.2, 0]
+Sharpe Ratio: -77.2759365809
+Volatility (stdev of daily returns): 0.0162885689486
+Average Daily Return: 0.000708444528675
+Cumulative Return: 1.73594958129
+End Value: 2735949.58129
+Start Date: 2002-02-09 00:00:00
+End Date: 2010-10-22 00:00:00
+Symbols: ['CCT', 'JNJ', 'ERTS', 'MCO', 'R', 'WDC', 'BBT', 'JOY', 'PLL']
+Allocations: [0.2, 0.2, 0.1, 0.1, 0.2, 0, 0, 0.2, 0]
+Sharpe Ratio: -68.2223284941
+Volatility (stdev of daily returns): 0.0207667097994
+Average Daily Return: 0.000752931076572
+Cumulative Return: 2.23953074157
+End Value: 3239530.74157
+Start Date: 2001-01-10 00:00:00
+End Date: 2010-11-20 00:00:00
+Symbols: ['WWY', 'OMX', 'NFX', 'AVB', 'EW', 'JWN', 'CBS', 'SH', 'UNH', 'CCI']
+Allocations: [0.2, 0.1, 0.1, 0.1, 0.2, 0, 0.1, 0, 0.2, 0]
+Sharpe Ratio: -130.355774126
+Volatility (stdev of daily returns): 0.0121137423831
+Average Daily Return: 0.000526285338006
+Cumulative Return: 2.07523973914
+End Value: 3075239.73914

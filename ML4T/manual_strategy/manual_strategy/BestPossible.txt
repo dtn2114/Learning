@@ -1,0 +1,16 @@
+Date Range: 2008-01-02 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Best: 13.3227698482
+Sharpe Ratio of Bench : 0.156918406424
+
+Cumulative Return of Best: 5.7861
+Cumulative Return of Bench : 0.0123
+
+Standard Deviation of Best: 0.00454782319791
+Standard Deviation of Bench: 0.0170043662712
+
+Average Daily Return of Best: 0.00381678615086
+Average Daily Return of Bench : 0.000168086978191
+
+Final Portfolio Value of Best: 6.7861
+Final Portfolio Value of Bench: 1.0123

@@ -1,0 +1,16 @@
+Date Range: 2008-01-02 00:00:00 to 2009-12-31 00:00:00
+
+Sharpe Ratio of Manual: 0.85843464875
+Sharpe Ratio of Bench : 0.153386690836
+
+Cumulative Return of Manual: 0.283117170158
+Cumulative Return of Bench : 0.0102362078485
+
+Standard Deviation of Manual: 0.0100806621122
+Standard Deviation of Bench: 0.0170412256784
+
+Average Daily Return of Manual: 0.000545124907955
+Average Daily Return of Bench: 0.000164660047203
+
+Final Portfolio Value of Manual: 1.28311717016
+Final Portfolio Value of Bench: 1.01023620785
